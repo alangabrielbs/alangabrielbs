@@ -14,3 +14,11 @@ Would you like to find me?
 
 [![frmk](https://img.shields.io/badge/frkw%20blog-282828?style=flat-square&link=https://frwk.alangabriel.dev/)](https://frwk.alangabriel.dev/)
 [![Viagens](https://img.shields.io/badge/Viagens-282828?style=flat-square&link=https://viagens.alangabriel.dev/)](https://viagens.alangabriel.dev/)
+
+<br />
+
+<div>
+  <a href="https://github.com/alangabrielbs">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alangabrielbs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alangabrielbs&layout=compact&langs_count=7&theme=dark"/>
+</div>
