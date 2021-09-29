@@ -14,6 +14,3 @@ Would you like to find me?
 
 [![frmk](https://img.shields.io/badge/frkw%20blog-282828?style=flat-square&link=https://frwk.alangabriel.dev/)](https://frwk.alangabriel.dev/)
 [![Viagens](https://img.shields.io/badge/Viagens-282828?style=flat-square&link=https://viagens.alangabriel.dev/)](https://viagens.alangabriel.dev/)
-
-
-[![Alan Gabriel github stats](https://github-readme-stats.vercel.app/api?username=alangabrielbs&theme=dark&show_icons=true&count_private=true)](https://github.com/alangabrielbs)
