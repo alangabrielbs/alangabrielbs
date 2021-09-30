@@ -20,6 +20,6 @@ Would you like to find me?
 
 <div>
   <a href="https://github.com/alangabrielbs">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alangabrielbs&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alangabrielbs&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alangabrielbs&theme=holi-theme&hide_border=true"/>
+  </a>
 </div>
