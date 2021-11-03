@@ -1,6 +1,6 @@
 # Hello people! \o/ 👋
 
-My name is Alan Gabriel and I'm from Brazil (🇧🇷). I have been working as a Front-End Developer since 2018, currently working as a Front-End Engineer at Zapt.
+My name is Alan Gabriel and I'm from Brazil (🇧🇷). I have been working as a Front-End Developer since 2018, currently working as a Front-End Engineer at [BLU](https://github.com/Pagnet).
 
 Would you like to find me?
 
@@ -14,6 +14,7 @@ Would you like to find me?
 ## 👨🏻‍💻 Recent projects
 
 [![frmk](https://img.shields.io/badge/frkw%20blog-282828?style=flat-square&link=https://frwk.alangabriel.dev/)](https://frwk.alangabriel.dev/)
+[![Good Password](https://img.shields.io/badge/Good%20Password-282828?style=flat-square&link=https://good-password.alangabriel.dev/)](https://good-password.alangabriel.dev/)
 [![Viagens](https://img.shields.io/badge/Viagens-282828?style=flat-square&link=https://viagens.alangabriel.dev/)](https://viagens.alangabriel.dev/)
 
 <br />
