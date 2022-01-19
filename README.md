@@ -1,6 +1,6 @@
 # Hello people! \o/ 👋
 
-My name is Alan Gabriel and I'm from Brazil (🇧🇷). I have been working as a Front-End Developer since 2018, currently working as a Front-End Engineer at [BLU](https://github.com/Pagnet).
+My name is Alan Gabriel and I'm from Brazil (🇧🇷). I have been working as a Front-End Developer since 2018, currently working as a Front-End Engineer.
 
 Would you like to find me?
 
